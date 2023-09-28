@@ -1,0 +1,29 @@
+.content{
+    display: flex;
+    border: 2px solid green;
+    background-color: aqua;
+}
+.content_nav{
+    width:  30%;
+}
+ul{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 10px 10px 10px 40px;
+    background-color: bisque;
+}
+.content_text{
+    display: grid;
+    flex: 2;
+    gap: 5px;
+    background-color: darkgray;
+}
+
+.text{
+    flex-basis: 100%;
+}
+
+img{
+    width: 50%;
+    float: right;
+}

@@ -1,0 +1,26 @@
+
+.content{
+    background-color: aqua;
+    border: 2px solid green;
+    
+}
+.content_text{
+    margin: 0px;
+    margin-right: 4px;
+    display: inline-block;
+    width: 69%;
+    background-color: darkgray;
+
+}
+
+.content_nav{
+    margin-right: 10px;
+    float: left;
+    width: 30%;
+}
+ul{
+background-color: bisque;
+padding: 10px 10px 10px 40px;
+box-sizing: border-box;
+margin: 0;
+}

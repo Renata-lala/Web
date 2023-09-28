@@ -1,0 +1,20 @@
+body{
+    display: block;
+    margin: 8px;
+}
+.main_block{
+    display: flex;
+    border: 1px solid green;
+
+}
+
+
+.text{
+    border: 0px;
+    flex: auto;
+    background-color: aqua;
+}
+
+.image{
+    display: block;
+}

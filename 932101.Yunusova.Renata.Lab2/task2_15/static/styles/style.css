@@ -1,0 +1,13 @@
+.content{
+    display: block;
+}
+.box{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 180px;
+    height: 80px;
+    margin: 10px;
+}
+.block{
+    background-color: bisque;
+}
